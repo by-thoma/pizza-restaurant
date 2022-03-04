@@ -1,0 +1,79 @@
+{
+  "pizzas": [
+    {
+      "id": 101,
+      "name": "Pepperoni",
+      "price": 250,
+      "sauces": [
+        "Tomato"
+      ],
+      "filling": [
+        "pepperoni",
+        "mozarella",
+        "basil",
+        "rosemary"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Barbecue",
+      "price": 350,
+      "sauces": [
+        "Tomato sause with italian herbs"
+      ],
+      "filling": [
+        "chorizo",
+        "mozarella",
+        "tomatoes",
+        "red onion"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Seafood",
+      "price": 450,
+      "sauces": [
+        "Creamy ginger sauce"
+      ],
+      "filling": [
+        "salmon",
+        "shrimp",
+        "squid",
+        "mozarella",
+        "basil"
+      ]
+    }
+  ],
+  "pies": [
+    {
+      "id": 201,
+      "name": "Apple pie",
+      "price": 350,
+      "filling": [
+        "apples",
+        "cinnamon",
+        "sweet dough"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Pumpkin pie",
+      "price": 400,
+      "filling": [
+        "pumpkin",
+        "cinnamon",
+        "shortbread dough"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Carrot cake",
+      "price": 250,
+      "filling": [
+        "carrot",
+        "almonds",
+        "sweet dough"
+      ]
+    }
+  ]
+}

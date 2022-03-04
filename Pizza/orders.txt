@@ -1,0 +1,16 @@
+2021-12-11 15:31:41.914471
+Added: Pepperoni
+Price: 250
+
+2021-12-11 15:31:44.769923
+Added: Barbecue
+Price: 350
+
+2021-12-11 15:31:48.036274
+Added: Seafood
+Price: 450
+
+2021-12-25 13:38:53.670999
+Added: Pepperoni
+Price: 250
+
